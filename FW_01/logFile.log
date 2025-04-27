@@ -1,0 +1,8 @@
+920  [main] TRACE com.ssafy.live.CalculatorTest -- level: trace level
+927  [main] DEBUG com.ssafy.live.CalculatorTest -- level: debug level
+928  [main] INFO  com.ssafy.live.CalculatorTest -- level: info level
+929  [main] WARN  com.ssafy.live.CalculatorTest -- level: warn level
+930  [main] ERROR com.ssafy.live.CalculatorTest -- level: error level
+583  [main] TRACE com.ssafy.live.Calculator -- a : 10, b : 20, result : 30
+921  [main] TRACE com.ssafy.live.Calculator -- a : 10, b : 20, result : 30
+552  [main] TRACE com.ssafy.live.Calculator -- a : 10, b : 20, result : 30
